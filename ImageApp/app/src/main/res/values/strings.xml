@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageApp</string>
+    <string name="imageDescription">Learn Android</string>
+</resources>
