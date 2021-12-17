@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">testRecyclerView</string>
+    <string name="notes_app">Notes App</string>
+    <string name="note_1_title">Note 1</string>
+    <string name="note_2_title">Note 2</string>
+    <string name="note_3_title">Note 3</string>
+    <string name="note_4_title">Note 4</string>
+    <string name="note_5_title">Note 5</string>
+    <string name="note_6_title">Note 6</string>
+    <string name="note_1_description">This is the description for Note 1.</string>
+    <string name="note_2_description">This is the description for Note 2.</string>
+    <string name="note_3_description">This is the description for Note 3.</string>
+    <string name="note_4_description">This is the description for Note 4.</string>
+    <string name="note_5_description">This is the description for Note 5.</string>
+    <string name="note_6_description">This is the description for Note 6.</string>
+</resources>
